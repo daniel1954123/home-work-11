@@ -56,15 +56,3 @@
 //
 // console.log();
 // console.log(userInfo);
-
-const Questions =prompt()
-switch (Questions){
-    case 'Какой ваш любимый фильм?': console.log('Legend')
-        break;
-    case 'Какая ваша любимая музыка?': console.log('La La Life')
-        break;
-    case 'Какое ваше любимое хобби?': console.log('Sport')
-        break;
-    default:
-        console.log('Default')
-}
